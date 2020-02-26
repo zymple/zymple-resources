@@ -11,3 +11,4 @@
 ) by Uncle Bob Martin - มีเป็นวีดีโอซีรี่ส์ในเว็บ cleancoders.com ด้วย
 * [The Software Craftsman: Professionalism, Pragmatism, Pride by Sandro Mancuso](https://my.safaribooksonline.com/book/software-engineering-and-development/9780134052625)
 
+![https://creativecommons.org/licenses/by-sa/4.0/](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
