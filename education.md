@@ -17,7 +17,7 @@
 * [Google Earth Engine plugin for QGIS](https://github.com/gee-community/qgis-earthengine-plugin/) เป็น QGIS Plugin ที่เขียนได้ค่อนข้างดี มีระบบ CI, Unit Test โค้ดค่อนข้างคลีน และขนาดเล็ก เข้าใจง่าย
 * [InaSAFE QGIS Plugin](https://github.com/inasafe/inasafe) คล้ายๆ Google Earth Engine แต่ repository ใหญ่กว่ามาก
 
-![https://creativecommons.org/licenses/by-sa/4.0/](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-
 ## InnerSource
 * [Transitioning Engineering Teams to InnerSource](https://docs.google.com/presentation/d/1p3e2JLPYKb4Vph09qhCWnqQp5tT3SUVmK6nRcb7HaQs/edit#slide=id.p) CC-BY license
+
+![https://creativecommons.org/licenses/by-sa/4.0/](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
