@@ -18,3 +18,6 @@
 * [InaSAFE QGIS Plugin](https://github.com/inasafe/inasafe) คล้ายๆ Google Earth Engine แต่ repository ใหญ่กว่ามาก
 
 ![https://creativecommons.org/licenses/by-sa/4.0/](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+## InnerSource
+* [Transitioning Engineering Teams to InnerSource](https://docs.google.com/presentation/d/1p3e2JLPYKb4Vph09qhCWnqQp5tT3SUVmK6nRcb7HaQs/edit#slide=id.p) CC-BY license
