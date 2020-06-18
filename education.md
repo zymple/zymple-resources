@@ -27,6 +27,5 @@
 * [Latest advances in maturity model](https://www.youtube.com/watch?v=U0Sdkr85IxU&list=PLPWC-trit3B8V2qtoWjUP3U2RTruoH_zT&index=15)
 * [Collaboration Maturity Model](https://www.youtube.com/watch?v=l_wvFkUUGDM&list=PLPWC-trit3B8V2qtoWjUP3U2RTruoH_zT&index=18)
 * [Learning collaboration from Open Source Dev](https://www.youtube.com/watch?v=nPTHCwk4t50&list=PLPWC-trit3B8V2qtoWjUP3U2RTruoH_zT&t=323)
-* 
 
 ![https://creativecommons.org/licenses/by-sa/4.0/](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
