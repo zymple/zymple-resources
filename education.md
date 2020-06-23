@@ -21,6 +21,7 @@
 * [Transitioning Engineering Teams to InnerSource](https://docs.google.com/presentation/d/1p3e2JLPYKb4Vph09qhCWnqQp5tT3SUVmK6nRcb7HaQs/edit#slide=id.p) CC-BY license
 * [Adopting InnerSource](https://paypal.github.io/InnerSourceCommons/assets/files/AdoptingInnerSource.pdf)
 * [Understanding the InnerSource Checklist](https://innersourcecommons.org/assets/files/InnerSourceChecklist.pdf)
+* [InnerSource Books](https://innersourcecommons.org/resources/books/)
 
 ### Maturity Models
 * [Maturity model](https://github.com/InnerSourceCommons/InnerSourcePatterns/pull/121)
